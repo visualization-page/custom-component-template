@@ -1,0 +1,11 @@
+{
+  "title": "牛逼",
+  "name": "ym",
+  "main": "./index.vue",
+  "version": "0.0.1",
+  "props": {
+    "buttonText": "立即提交",
+    "fontSize": "14px",
+    "color": "#ffffff"
+  }
+}
